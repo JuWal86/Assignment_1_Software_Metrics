@@ -1,8 +1,7 @@
-# Assignment_1_Software_Metrics
 # Software Metrics Measurement Tool
 
 This project is a Python-based tool for analyzing large-scale software systems using fundamental software metrics.  
-It was developed as part of a software engineering course to explore size, complexity, and coupling across real-world projects such as the Linux kernel, JDK, and ITK.
+It was developed to explore size, complexity, and coupling across real-world projects such as the Linux kernel, JDK, and ITK.
 
 ## Overview
 
