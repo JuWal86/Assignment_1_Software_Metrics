@@ -1,0 +1,3 @@
+file,language,function,signature,ploc_file,lloc_file,cyclomatic,fan_in,fan_out
+software_metrics_course/module1_basics/fibonacci_4.py,python,fibonacci,fibonacci(),54,18,3,1,0
+software_metrics_course/module1_basics/fibonacci_4.py,python,main,main(),54,18,4,0,1

@@ -1,0 +1,3 @@
+file,language,function,signature,ploc_file,lloc_file,cyclomatic,fan_in,fan_out
+software_metrics_course/module1_basics/fibonacci_2.c,c,fibonacci,fibonacci(),51,23,3,1,0
+software_metrics_course/module1_basics/fibonacci_2.c,c,main,main(),51,23,2,0,1
